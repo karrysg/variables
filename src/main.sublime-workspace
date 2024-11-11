@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pri",
+				"println\tprintln!(…)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"rust",
+				"Set Syntax: Rust Enhanced"
+			],
+			[
+				"term",
+				"Terminus: List Shells"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"MarkdownEditing: Select Color scheme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install",
+				"Install Package Control"
+			],
+			[
+				"python",
+				"Build With: python3-12"
+			],
+			[
+				"pylin",
+				"Preferences: SublimeLinter Key Bindings"
+			],
+			[
+				"run",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"",
+				"PackageResourceViewer: Extract All Packages"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: Packager",
+				"Package Control: Install Package"
+			],
+			[
+				"Dev",
+				"PackageDev: Edit Current Theme"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 187.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/karrysg/Programming/Rust/projects/guessing_game/src/main.rs",
+		"/Users/karrysg/.zshrc",
+		"/Users/karrysg/Programming/Rust/projects/variables/src/main.rs",
+		"/Users/karrysg/Library/Application Support/Sublime Text/Packages/MarkdownEditing/README.md",
+		"/Users/karrysg/Library/Application Support/Sublime Text/Packages/TerminalView/README.md",
+		"/Users/karrysg/Programming/Rust/projects/guessing_game/Cargo.toml",
+		"/Users/karrysg/.gitconfig",
+		"/Users/karrysg/Programming/Rust/projects/hello_cargo/Cargo.toml",
+		"/Users/karrysg/Programming/Rust/projects/hello_world/main.rs",
+		"/Users/karrysg/.bashrc",
+		"/Users/karrysg/.config/fish/config.fish",
+		"/Users/karrysg/joplin_crash_dump_20240217T225850.json",
+		"/Users/karrysg/.config/joplin-desktop/edit-ed497e7eb2c84535af64e811574c69a0.md",
+		"/Users/karrysg/anaconda3/pkgs/notebook-shim-0.2.3-py311hecd8cb5_0/lib/python3.11/site-packages/notebook_shim/tests/confs/jupyter_notebook_config.py",
+		"/Users/karrysg/.oh-my-zsh/themes/custom.zsh-theme",
+		"/Users/karrysg/.oh-my-zsh/themes/custom2.zsh-theme",
+		"/Users/karrysg/.tool-versions",
+		"/Volumes/Ventura/zshcustom",
+		"/Users/karrysg/.asdf/repository/.tool-versions",
+		"/Users/karrysg/.bash_profile",
+		"/Users/karrysg/.oh-my-zsh/themes/jtriley.zsh-theme",
+		"/Users/karrysg/Downloads/ohmyzsh-master/themes/jtriley.zsh-theme",
+		"/Users/karrysg/.oh-my-zsh/themes/junkfood.zsh-theme",
+		"/Users/karrysg/.oh-my-zsh/themes/robbyrussell.zsh-theme",
+		"/Users/karrysg/.oh-my-zsh/themes/xiong-chiamiov-plus.zsh-theme",
+		"/Users/karrysg/.oh-my-zsh/themes/xiong-chiamiov.zsh-theme",
+		"/Users/karrysg/.zshrc.pre-oh-my-zsh",
+		"/Users/karrysg/.bash_login",
+		"/Users/karrysg/Programming/Python/EthicalHacking/violent-python3-master/README.md",
+		"/Users/karrysg/Programming/Python/EthicalHacking/multitool-master/MultiTool_src/README.md",
+		"/Users/karrysg/Programming/Python/EthicalHacking/multitool-master/README.md",
+		"/Users/karrysg/Programming/Python/EthicalHacking/hacking-with-python-master/README.md",
+		"/Users/karrysg/Downloads/sha1.txt",
+		"/Users/karrysg/Desktop/*Tunnelblick: macOS 14.3 (23D56); Tunnelblick 4.0.",
+		"/Users/karrysg/Desktop/*Tunnelblick: macOS 14.3 (23D56); TX Tunnelblick 4.0.",
+		"/Users/karrysg/.profile",
+		"/Users/karrysg/.bash_it/themes/pete/pete.theme.bash",
+		"/Users/karrysg/.adobe/md5",
+		"/Users/karrysg/.adobe/userid",
+		"/Users/karrysg/.bash_profile.bak",
+		"/Users/karrysg/Library/Application Support/Sublime Text/Packages/Pylinter/Pylinter.sublime-settings",
+		"/Users/karrysg/Library/Application Support/Sublime Text/Packages/User/Pylinter.sublime-settings",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Log Analysis/sysmon.evtx",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Scanning and Reconnaissance/academic-papers/all_aria2.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Scanning and Reconnaissance/academic-papers/6c771c237d5f6c2ae4facc905b278f8b9a3b58319a9b2c21092424b845fd84be/layer/config/script/tracker.sh",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Scanning and Reconnaissance/academic-papers/aria2conftranslation.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Scanning and Reconnaissance/academic-papers/6c771c237d5f6c2ae4facc905b278f8b9a3b58319a9b2c21092424b845fd84be/layer/config/aria2.conf",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Scanning and Reconnaissance/academic-papers/repositories",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Scanning and Reconnaissance/academic-papers/6c771c237d5f6c2ae4facc905b278f8b9a3b58319a9b2c21092424b845fd84be/layer/config/aria2.session",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Password Cracking/pokemon3.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Password Cracking/wpalist.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Password Cracking/wpa.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Cryptography/binary-output2.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/OSI/mobilenotes.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Password Cracking/saymyname.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Cryptography/message.py",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Cryptography/message.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Log Analysis/routerhash.hc22000",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Password Cracking/speakeasy.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Password Cracking/monsters.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Cryptography/sudoku.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Team/Cryptography/binary.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/cities.txt",
+		"/Users/karrysg/.hashcat_BU/hashcat.potfile",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/us-cities.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Web Application/payload",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Scanning and Reconnaissance/masscan.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Scanning and Reconnaissance/IPaddresses.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/flagformathashes.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/togglecase.rule",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/nycities.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/SKY.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/pass.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/nyhashes.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/flagformat.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/hash.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/OSI/-----BEGIN PGP PUBLIC KEY BLOCK-----",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/Password Cracking/windowshashes.txt",
+		"/Users/karrysg/NCL/NCLFall2023/Individual/OSI/7A39A56B73D1E097D57435CFCDE2DE1DCB2077F2",
+		"/Users/karrysg/NCL/NCLTools/List of Tools",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Log Analysis/eve_alert.json",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Password Cracking/crack6.txt",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Password Cracking/Skipping invalid or unsupported rule in file all_r",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Log Analysis/signature.txt",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Log Analysis/signatures3.txt",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Password Cracking/ustvshows",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Password Cracking/ustvshowsedit",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Password Cracking/cracking5.txt",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Password Cracking/cracking3",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Password Cracking/cracking2",
+		"/Users/karrysg/NCL/NCLFall2023/PracticeGame/Password Cracking/cracking1",
+		"/Users/karrysg/Programming/Python/PythonBook-SourceCode-master/Chap14/countingstopwatch2.py",
+		"/Users/karrysg/Programming/Python/PythonBook-SourceCode-master/Chap14/stopwatchplay.py",
+		"/Users/karrysg/PurdueGlobal/16August2023/IT331NetworkInfrastructure/M3/OtherResources/CellularNetworksReferences",
+		"/Users/karrysg/Desktop/Taylor Swift Eras setlist",
+		"/Users/karrysg/.pulsar/.apm/_logs/2023-06-17T14_13_07_903Z-debug.log",
+		"/Users/karrysg/Programming/Python/PythonBook-SourceCode-master/Chap14/timer.py",
+		"/Users/karrysg/Programming/Python/PythonBook-SourceCode-master/Chap14/stopwatch.py",
+		"/Users/karrysg/Programming/Python/PythonBook-SourceCode-master/Chap14/countingstopwatch.py",
+		"/Users/karrysg/Library/CloudStorage/OneDrive-Personal/Desktop/Powerpoint",
+		"/Users/karrysg/Programming/deletelocalsnapshots.txt",
+		"/Users/karrysg/Programming/delete local snapshots",
+		"/Users/karrysg/Programming/Python/PythonBook-SourceCode-master/Chap1/arrow.py",
+		"/Users/karrysg/NCL/NCLSpring2023/Team/PasswordCracking/PasswordHard",
+		"/Users/karrysg/NCL/NCLSpring2023/Team/PasswordCracking/crack5carrie.txt",
+		"/Users/karrysg/NCL/NCLSpring2023/Team/PasswordCracking/cracking5.txt",
+		"/Users/karrysg/NCL/NCLSpring2023/Team/PasswordCracking/crack53.txt",
+		"/Users/karrysg/Documents/Business Correspondence/APPLIANCE INFORMATION",
+		"/Users/karrysg/NCL/NCLSpring2023/Team/Forensics/MemoryDumpURL",
+		"/Users/karrysg/Library/Application Support/Sublime Text/Packages/Python 3/Python3.sublime-build",
+		"/Users/karrysg/Library/Application Support/Sublime Text/Packages/User/PackageResourceViewer.sublime-settings",
+		"/Users/karrysg/Programming/Python/PythonBook-SourceCode-master/Chap4/absvalueconditional.py",
+		"/Users/karrysg/Programming/Python/PythonBook-SourceCode-master/Chap14/boxadapter.py",
+		"/Users/karrysg/NCL/NCLSpring2023/Team/PasswordCracking/rock-groups",
+		"/Users/karrysg/Library/Application Support/Sublime Text/Packages/User/python3-12.sublime-build",
+		"/Users/karrysg/Downloads/music",
+		"/Users/karrysg/Library/Application Support/Sublime Text/Packages/User/python -i",
+		"/Users/karrysg/FileVault",
+		"/Users/karrysg/Terminal (bash)",
+		"/Users/karrysg/Programming/Python/PythonBook-SourceCode-master/Chap10/generator2list.py",
+		"/var/folders/zx/s18l37hx4_5cwnjcykdp909w0000gn/T/kite_tutorial.py",
+		"/Users/karrysg/NCL/NCLFall2021/Preseason/Log Analysis/error.log",
+		"/Users/karrysg/NCL/NCLFall2021/Preseason/Log Analysis/MailLog.txt",
+		"/Users/karrysg/NCL/NCLFall2021/Preseason/Log Analysis/OTL.txt"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 447.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
